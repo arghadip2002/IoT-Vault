@@ -18,7 +18,7 @@ When the garbage level becomes full:
 
 This project demonstrates the practical implementation of **IoT, Automation, and Embedded Systems** in smart waste management.
 
-![Smart Garbage Bin](./Assets/SmartGarbageBin2.png)
+![Smart Garbage Bin](./Assets/SmartGarbageBin.png)
 
 
 # 🔧 Components Used
