@@ -1,4 +1,5 @@
 # 🗑️ Smart Garbage Bin using Arduino UNO
+---
 
 A Smart Garbage Bin is an IoT-based automation project built using **Arduino UNO**.  
 The system is designed to provide a **touchless and hygienic waste disposal solution** using sensors and automation.
@@ -22,6 +23,7 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 
 
 # 🔧 Components Used
+---
 
 - Arduino UNO
 - 2 × HC-SR04 Ultrasonic Sensors
@@ -32,9 +34,9 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 - Breadboard
 - Jumper Wires
 
----
 
 # 🔌 Connections
+---
 
 ## Ultrasonic Sensor 1 (Human Detection)
 
@@ -45,7 +47,6 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 | TRIG | Digital Pin 9 |
 | ECHO | Digital Pin 10 |
 
----
 
 ## Ultrasonic Sensor 2 (Garbage Level Detection)
 
@@ -56,7 +57,6 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 | TRIG | Digital Pin 12 |
 | ECHO | Digital Pin 11 |
 
----
 
 ## Servo Motor Connection
 
@@ -66,7 +66,6 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 | GND | GND |
 | Signal | Digital Pin 6 |
 
----
 
 ## LCD Display (I2C)
 
@@ -77,7 +76,6 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 | SDA | A4 |
 | SCL | A5 |
 
----
 
 ## LED & Buzzer
 
@@ -86,9 +84,9 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 | LED | Digital Pin 3 |
 | Buzzer | Digital Pin 4 |
 
----
 
 # 🚀 Features
+---
 
 - Automatic Lid Opening
 - Touchless Operation
@@ -97,9 +95,12 @@ This project demonstrates the practical implementation of **IoT, Automation, and
 - Full Bin Alert System
 - Smart Waste Management
 
----
 
 # 👨‍💻 Author
+---
 
-**Arghadip Biswas**  
-Email - mrarghadipofficial@gmail.com
+**Arghadip Biswas** 
+- [LinkedIn](https://www.linkedin.com/in/arghadip-biswas2002/)
+- [Instagram: @mr_arghadip.official](https://www.instagram.com/mr_arghadip.official/)
+- [Github: arghadip2002](https://github.com/arghadip2002)
+- Email - mrarghadipofficial@gmail.com

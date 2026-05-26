@@ -1,4 +1,5 @@
 # 🚀 IoT Projects Repository - IoT Vault
+---
 
 Welcome to this repository containing multiple IoT & Automation-based projects built for learning, experimentation, and real-world problem solving.
 
@@ -8,14 +9,10 @@ This repository showcases different innovative projects related to:
 - Robotics
 - Sensor-Based Automation
 
----
 
 # 📂 Projects Included
-
 ---
-
 ## 🗑️ 1. Smart Garbage Bin
-
 An IoT-based automated smart dustbin designed to improve hygiene and modernize waste management systems.
 
 The project automatically opens the lid when a person approaches the bin and also monitors the garbage level inside the dustbin. It combines automation with smart sensing technologies to create a touch-free and intelligent waste disposal system.
@@ -39,5 +36,16 @@ The project automatically opens the lid when a person approaches the bin and als
 - Buzzer & LEDs
 
 ---
+---
+---
 
 More projects will be added soon 🚀
+
+
+### Contributors
+
+1. **Arghadip Biswas** 
+- [LinkedIn](https://www.linkedin.com/in/arghadip-biswas2002/)
+- [Instagram: @mr_arghadip.official](https://www.instagram.com/mr_arghadip.official/)
+- [Github: arghadip2002](https://github.com/arghadip2002)
+- Email - mrarghadipofficial@gmail.com
