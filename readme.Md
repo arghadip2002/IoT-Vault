@@ -36,6 +36,33 @@ The project automatically opens the lid when a person approaches the bin and als
 - Buzzer & LEDs
 
 ---
+
+## 🚗 2. IR Remote Control Car
+A wireless robotics project built using Arduino UNO and IR communication technology.
+
+This project allows a robotic car to be controlled using an IR Remote Control. The Arduino reads IR signals through an IR Receiver Module and controls the movement of the motors using the L293D Motor Driver IC.
+
+The car can perform multiple movement operations including forward, backward, left turn, right turn, and stop actions.
+
+### 🎥 Project Demo
+[![IR Remote Control Car](./P2_IR_Remote_Control_Car/Assets/Simulation.gif)](https://youtu.be/YOUR_VIDEO_LINK)
+
+### ✨ Features
+- Wireless IR remote-based control
+- Forward & backward movement
+- Left & right turning control
+- Real-time motor control
+- Robotics & embedded systems implementation
+- Simple automation project for beginners
+
+### 🛠️ Technologies Used
+- Arduino UNO
+- IR Receiver Module
+- IR Remote
+- L293D Motor Driver
+- DC Motors
+- 9V Battery
+
 ---
 ---
 
