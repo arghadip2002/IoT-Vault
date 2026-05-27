@@ -21,7 +21,7 @@ This project demonstrates the practical implementation of:
 - Arduino Programming
 - Motor Driver Interfacing
 
-![IR Remote Control Car](./Assets/Simulation.gif)
+![IR Remote Control Car](./Assets/IRbasedRCcar.png)
 
 
 # 🔧 Components Used

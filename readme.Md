@@ -50,7 +50,7 @@ The car can perform multiple movement operations including forward, backward and
 ### ✨ Features
 - Wireless IR remote-based control
 - Forward & backward movement
-- Real-time motor control
+- Real-time motor controls
 - Simple automation project for beginners
 
 ### 🛠️ Technologies Used
