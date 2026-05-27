@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," IR sensor"
+"U2",1," Arduino Uno R3"
+"M1, M2, M3, M4",4," DC Motor"
+"U3",1," H-bridge Motor Driver"
+"BAT2",1," 9V Battery"
