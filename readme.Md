@@ -42,17 +42,15 @@ A wireless robotics project built using Arduino UNO and IR communication technol
 
 This project allows a robotic car to be controlled using an IR Remote Control. The Arduino reads IR signals through an IR Receiver Module and controls the movement of the motors using the L293D Motor Driver IC.
 
-The car can perform multiple movement operations including forward, backward, left turn, right turn, and stop actions.
+The car can perform multiple movement operations including forward, backward and stop actions.
 
 ### 🎥 Project Demo
-[![IR Remote Control Car](./P2_IR_Remote_Control_Car/Assets/Simulation.gif)](https://youtu.be/YOUR_VIDEO_LINK)
+[![IR Remote Control Car](./P2_IR_based_RC_Car/Assets/Simulation.gif)](https://youtu.be/NdVw_7zybb8)
 
 ### ✨ Features
 - Wireless IR remote-based control
 - Forward & backward movement
-- Left & right turning control
 - Real-time motor control
-- Robotics & embedded systems implementation
 - Simple automation project for beginners
 
 ### 🛠️ Technologies Used
