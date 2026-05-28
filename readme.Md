@@ -17,6 +17,8 @@ An IoT-based automated smart dustbin designed to improve hygiene and modernize w
 
 The project automatically opens the lid when a person approaches the bin and also monitors the garbage level inside the dustbin. It combines automation with smart sensing technologies to create a touch-free and intelligent waste disposal system.
 
+[View the Repository](https://github.com/arghadip2002/IoT-Vault/tree/main/P1_Smart_Garbage_Bin)
+
 ### 🎥 Project Demo
 [![Smart Garbage Bin Demo](./P1_Smart_Garbage_Bin/Assets/Simulation.gif)](https://youtu.be/AUsKGXQxqIE)
 
@@ -43,6 +45,8 @@ A wireless robotics project built using Arduino UNO and IR communication technol
 This project allows a robotic car to be controlled using an IR Remote Control. The Arduino reads IR signals through an IR Receiver Module and controls the movement of the motors using the L293D Motor Driver IC.
 
 The car can perform multiple movement operations including forward, backward and stop actions.
+
+[View the Repository](https://github.com/arghadip2002/IoT-Vault/tree/main/P2_IR_based_RC_Car)
 
 ### 🎥 Project Demo
 [![IR Remote Control Car](./P2_IR_based_RC_Car/Assets/Simulation.gif)](https://youtu.be/NdVw_7zybb8)
